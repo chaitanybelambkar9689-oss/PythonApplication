@@ -1,0 +1,65 @@
+
+LLM is b
+transformer is backbne of LLM
+
+SLM ->short language model
+
+ollama is example of  fish tank
+
+meta ai is lamma
+
+retreive augmementeed generation
+
+aadhi chotasa data asel tar tyal rag mhantat
+
+je deil tyachi mahiti kadhel ani jar allow karshil tar tyala raag mhantat yala rag mhantat
+rag pipline -> 
+
+open gl is library for cpp using the  gui  
+
+standalone -> internetchi garaj naste
+webrowser  
+
+type framework
+react ,angular, view for client server
+
+server side framework -> express js 
+runtime enviroment -> node js
+
+serverside framework for python -> Django ,Flask
+
+framework
+html ,css,javascript  for  server side 
+
+embedding database -madhe data harddisk varti nasto
+webbased gui  -> streamlit
+
+grouping kel ki tyala chunk mhantat
+sentence madhale word separate karne tyala  token
+
+faiss -> facebook  ai compares  ->semantic searches lkarayvh asel transformer
+
+relevant -> understanfd the meaning
+
+Ollama -> runtime enviromant -> llamas (meta ai) -> LLM
+
+sentence transformer is inbuilt it contain only encoding
+
+llamas ->large language  model meta ai
+
+gpt ->gnerative  pretrained
+
+requests 
+
+pdf is array of images
+
+immulator -> mini os
+
+locally -> run on same machine
+
+stream -> data text madhe dyaycha asel tar 
+json means to webserverla jato
+
+strip ne extra wite space jatat
+paragraph means chunkog
+
